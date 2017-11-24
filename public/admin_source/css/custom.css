@@ -1,0 +1,16 @@
+a:hover{
+	text-decoration: none;
+}
+.text_custom{
+	color: #fff;
+}
+.text_custom:hover{
+	color: #fff;
+}
+.text-justify {
+  text-align: justify;
+}
+.item-active{
+	background: #1ABB9C!important;
+	color: #fff!important;
+}
